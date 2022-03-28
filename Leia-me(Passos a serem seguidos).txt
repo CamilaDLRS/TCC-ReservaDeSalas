@@ -1,0 +1,3 @@
+1º Executar o Banco de Dados
+2º Seguir os passos a seguir para a instalação do sistema: Sistema de Reservas de Salas > prjReservas_SESI_SENAI > publish > setup
+3º Seguir os mesmos passos para abrir o sistema.
